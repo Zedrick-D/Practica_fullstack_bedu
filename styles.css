@@ -6,13 +6,14 @@ body {
 h1 {
     color: #46484c;
     text-align: center;
+    font-size: 30px;
 }
 
 p {
     text-align: center;
     color: #8b8b8bcc;
     font-family: verdana;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 button {
@@ -22,6 +23,9 @@ button {
 
 footer {
     text-align: center;
+    background-color: black;
+    color : white;
+    height: 20px;
 
 }
 b{
@@ -29,7 +33,7 @@ b{
 }
 
 form {
-    text-align: center;
+    text-align:center;
 }
 
 div {
