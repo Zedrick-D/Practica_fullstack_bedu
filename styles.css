@@ -1,0 +1,36 @@
+body {
+    background-color: #fffbf7;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #46484c;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: #8b8b8bcc;
+    font-family: verdana;
+    font-size: 20px;
+}
+
+button {
+    color: #fff;
+    background-color: #025157;
+}
+
+footer {
+    text-align: center;
+
+}
+b{
+    color: #a46666;
+}
+
+form {
+    text-align: center;
+}
+img{
+    align-items: center;
+}
